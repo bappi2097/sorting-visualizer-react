@@ -1,0 +1,13 @@
+.array-container {
+  position: absolute;
+  left: 100px;
+  /* -ms-transform: rotate(180deg); */
+  /* transform: rotate(180deg); */
+}
+
+.array-bar {
+  width: 3px;
+  background-color: rgb(39, 139, 221);
+  display: inline-block;
+  margin: 0 1px;
+}
